@@ -7,6 +7,6 @@ bokeh==1.0.4
 dill==0.2.7.1
 flask==0.12.2
 jinja2==2.10
-pip==10.0.1
+pip==21.1
 
 numpy==1.14.0
